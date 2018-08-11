@@ -1,0 +1,216 @@
+body {}
+
+/*header style start*/
+
+.custom_fluid {
+	background-color: #FCDB00;
+	min-height: 700px;
+	margin-top: 20px;
+}
+
+.logo_content {
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+
+.custom_nav {
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 40px;
+}
+
+.custom_card {
+	background-color: #FCDB00;
+	/*	width: 18rem;*/
+	border: transparent;
+	margin-top: 100px;
+}
+
+.card-title {
+	font-weight: bold;
+}
+
+.card-subtitle {
+	margin-top: 20px;
+}
+
+.card-text {
+	margin-top: 15px;
+}
+
+.custom_icon {
+	height: 100px;
+	width: 120px;
+	margin-left: -40px;
+}
+
+.custom_icon1 {
+	height: 61px;
+	width: 73px;
+	margin-left: -30px;
+}
+
+.custom_icon2 {
+	height: 48px;
+	width: 56px;
+	margin-left: 5px;
+}
+
+.custom_app {
+	margin-top: 50px;
+}
+
+.custom_caro {
+	margin-top: 90px;
+}
+
+.sspp {
+	height: 10px !important;
+	width: 10px !important;
+	border-radius: 50%;
+}
+
+/*header style end*/
+
+/*service start*/
+
+.details_1 {}
+
+.details_1 h5 {
+	font-size: 18px;
+}
+
+.details_1 p {
+	width: 85%;
+
+}
+
+.service_4 {
+	width: 100%;
+	overflow: hidden;
+	padding-top: 70px;
+	padding-bottom: 60px;
+}
+
+.service4_image {
+	width: 10%;
+	float: left;
+}
+
+.service4_image1 {
+	width: 10%;
+	float: left;
+}
+
+.service4_image1 img {
+	width: 185%;
+}
+
+.service_3 {
+	margin-top: 50px;
+}
+
+.service3_content1 {
+	overflow: hidden;
+}
+
+.service3_image {
+	width: 15%;
+	float: left;
+}
+
+.details_1 {
+	width: 85%;
+	float: right;
+	padding-left: 10%;
+}
+
+.service_img {
+	padding-top: 0px;
+	width: 80%;
+}
+
+.service_img22 {
+	width: 130% !important;
+}
+
+/*service end*/
+
+/*footer style start*/
+
+.footms {
+	background-color: black;
+}
+
+.data {
+	padding-top: 80px;
+}
+
+.data_text {
+	color: #FCDB00;
+}
+
+.data p {}
+
+.text_line {
+	color: wheat;
+	margin-bottom: 0px;
+}
+
+/*
+.data_form{
+	overflow: hidden;
+	margin: 0 auto;
+	padding-bottom: 28px;
+	padding-right: 12%;
+	padding-top: 40px;
+}
+.data_form input{
+	width: 161%;
+}
+*/
+
+.data_form {
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.custom_control {
+	margin: 0 auto;
+	margin-left: 150%;
+	width: 200% !important;
+}
+
+.tnd {
+	margin-left: 10px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	background-color: #FCDB00 !important;
+	color: black;
+}
+
+.custom-end {
+	color: white;
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+
+}
+
+.list-group ul {}
+
+.list-group li {
+	list-style: none;
+	font-weight: 100;
+}
+
+.ress {
+	font-weight: 100;
+}
+
+.custom_limg {
+	margin: 45px 15px;
+}
+
+/*footer style end*/

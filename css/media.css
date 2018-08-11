@@ -1,0 +1,162 @@
+ /**Extra small devices (portrait phones, less than 576px)**/
+
+ @media (max-width: 575.98px) {
+ 	.custom_card {
+ 		background-color: #FCDB00;
+ 		border: transparent;
+		margin-top: 0px;
+ 	}
+ 	.custom_icon {
+ 		height: 100px;
+ 		width: 120px;
+ 		margin-left: -42px;
+ 	}
+ 	.custom_icon1 {
+ 		height: 61px;
+ 		width: 73px;
+ 		margin-left: -45px;
+ 	}
+ 	.custom_caro {
+ 		margin-top: 23px;
+ 	}
+ 	.custom_app {
+ 		margin-top: 12px;
+ 		width: 80%;
+ 		margin-bottom: 15px;
+ 	}
+ 	.custom_control {
+ 		margin: 0 auto;
+ 		margin-left: 14%;
+ 		width: 90% !important;
+ 	}
+ 	.text-muted {
+ 		color: #6c757d !important;
+ 		font-size: 10px;
+ 	}
+
+ 	.details_1 p {
+ 		width: 180%;
+ 	}
+ 	.details_1 h5 {
+ 		font-size: 9px;
+ 	}
+ 	.details_1 {
+ 		width: 85%;
+ 		/* float: right; */
+ 		padding-left: 0%;
+ 	}
+ 	.service4_image1 {
+ 		width: 50%;
+ 		/* float: left; */
+ 	}
+ 	.service3_image {
+
+ 		width: 61%;
+ 		margin-left: 10px;
+ 		/* float: left; */
+ 	}
+ 	.service4_image1 img {
+ 		width: 130%;
+ 	}
+ 	.service_img22 {
+ 		width: 122% !important;
+ 		margin-left: 10px;
+ 	}
+ 	.wyxscrk {
+ 		width: 61%;
+ 	}
+ }
+
+ /**Small devices (landscape phones, 576px and up)**/
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+ 	.custom_caro {
+ 		margin-top: 10px;
+ 	}
+ 	.custom_icon1 {
+ 		height: 61px;
+ 		width: 73px;
+ 		margin-left: -50px;
+ 	}
+ 	.custom_icon2 {
+ 		height: 48px;
+ 		width: 56px;
+ 		margin-left: -10px;
+ 	}
+
+ 	.details_1 p {
+ 		width: 129%;
+ 	}
+ 	.service_img {
+ 		padding-top: 0px;
+ 		width: 140%;
+ 	}
+
+ 	.details_1 {
+ 		width: 85%;
+ 		float: right;
+ 		padding-left: 20%;
+ 	}
+
+ 	.custom_control {
+ 		margin: 0 auto;
+ 		margin-left: 43%;
+ 		width: 200% !important;
+ 	}
+ 	.service4_image1 img {
+ 		width: 249%;
+ 	}
+ 	.service_img22 {
+ 		width: 219% !important;
+ 	}
+
+ }
+
+ /**Medium devices (tablets, 768px and up)**/
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+ 	.custom_caro {
+ 		margin-top: 45px;
+ 	}
+ 	.custom_control {
+ 		margin: 0 auto;
+ 		margin-left: 40%;
+ 		width: 200% !important;
+ 	}
+
+
+ }
+
+ /**Large devices (desktops, 992px and up)**/
+
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+ 	.custom_control {
+ 		margin: 0 auto;
+ 		margin-left: 150%;
+ 		width: 200% !important;
+ 	}
+ 	.custom_control {
+ 		margin: 0 auto;
+ 		margin-left: 86%;
+ 		width: 200% !important;
+ 	}
+ }
+
+ /**Extra large devices (large desktops, 1200px and up)**/
+
+ @media (min-width: 1200px) {
+ 	.custom_control {
+ 		margin: 0 auto;
+ 		margin-left: 150%;
+ 		width: 200% !important;
+ 	}
+ 	.custom-end {
+ 		color: white;
+ 		margin-bottom: 20px;
+ 		padding-bottom: 30px;
+ 		padding-top: 25px;
+ 		margin-top: -2px;
+ 	}
+ }
